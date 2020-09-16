@@ -1,0 +1,42 @@
+body{
+    padding:0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(222, 226, 222)
+}
+.content-list{
+    background-color: rgb(114, 44, 44);
+    width: 500px;
+    color: white;
+    height: 80px;
+}
+.content-list h3 {
+    margin-left: 17%;
+    font-size: 130%;
+    margin-top: 25%;
+}
+#txt-content{
+    margin-left: 20px;
+    width: 380px;
+}
+.todo-list{
+    width: 500px;
+    background-color: thistle;
+}
+.todo-list li {
+    list-style: none;
+    border-top: 1px solid  rgb(222, 226, 222);
+    display: grid;
+    grid-template-columns:  1fr 9fr  1fr;
+    height: 20px;
+}
+
+.all{
+    margin-top: 10%;
+    margin-left: 33.5%;
+}
+
+
+
+
+
+
